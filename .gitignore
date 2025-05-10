@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# Environment variables
+.env
+
+# MongoDB in-memory server
+/mongodb-data/
+
+# Logs
+logs/
+
+# Coverage directory
+/coverage/
+
+# IDEs
+.vscode/
+.idea/
