@@ -26,7 +26,8 @@ A backend service to store time-locked messages ('time capsules') with authentic
 1. Clone the repository
 2. Install dependencies: `npm install`
 3. Create a `.env` file based on `.env.example`
-4. Start the server: `npm run dev`
+4. Running Tests npm test
+5. Start the server: `npm run dev`
 
 ## Running Tests
 
